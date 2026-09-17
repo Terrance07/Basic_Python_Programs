@@ -1,5 +1,5 @@
-start = int(input("Enter starting number: "))
-end = int(input("Enter ending number: "))
+start = int(input("Enter Starting number: "))
+end = int(input("Enter Ending number: "))
 def count_odd(start, end):
     count = 0
     for i in range(start, end + 1):
